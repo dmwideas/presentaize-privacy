@@ -126,13 +126,8 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 ## Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
-By email: dmwideas@gmail.com
-
-Contact Us
-If you have any questions about this Privacy Policy, You can contact us:
 
 By email: dmwideas@gmail.com
-Generated using Privacy Policies Generator
 
 ## Cookie Policy
 Cookie Policy Last updated: October 18, 2025
@@ -173,7 +168,7 @@ We do not use cookies for cross-app or cross-site tracking without explicit cons
 
 ### How we manage cookies
 - **Consent**: Upon opening the App, we display a consent notice. You can accept or reject non-essential cookies. You can change your consent anytime via the settings menu (or browser if using the web form).
-- **Rejection**: If you reject marketing cookies, you’ll see generic but less personalized ads.
+- **Rejection**: If you reject marketing cookies, you'll see generic but less personalized ads.
 - **Retention**: Cookies are automatically deleted at the end of their duration or upon withdrawing consent.
 - **Security**: We use HTTPS and encryption for all transmissions. We do not share data with third parties without a legal basis (e.g., anonymous analysis with Firebase).
 
