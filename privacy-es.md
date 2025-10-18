@@ -127,3 +127,74 @@ Se le aconseja revisar esta Política de Privacidad periódicamente para cualqui
 ## Contáctenos
 Si tiene alguna pregunta sobre esta Política de Privacidad, puede contactarnos:
 Por correo electrónico: dmwideas@gmail.com
+
+## Política de Cookies
+Política de Cookies Última actualización: 18 de octubre de 2025
+
+Esta Política de Cookies explica cómo PresentAIze (en adelante, "la App", "Nosotros" o "Nuestro") usa cookies y tecnologías similares en su aplicación móvil (disponible en Android). Al usar la App, aceptas el uso de estas tecnologías de acuerdo con esta política. Esta política forma parte de nuestra Política de Privacidad general, disponible en [enlace a la política de privacidad].
+
+### ¿Qué son las cookies y tecnologías similares?
+Las cookies son pequeños archivos de texto que se almacenan en tu dispositivo (teléfono o tablet) cuando usas la App. Incluyen tecnologías similares, como píxeles web, almacenamiento local (localStorage) y SDK de terceros (ej. Firebase para análisis). Usamos estas para mejorar tu experiencia, analizar el uso y mostrar anuncios relevantes. No usamos cookies para rastrear datos personales sin consentimiento.
+
+### Tipos de cookies que usamos
+La App usa cookies de los siguientes tipos, clasificadas según su propósito y duración:
+
+1. **Cookies estrictamente necesarias** (esenciales):
+   - Propósito: Permiten funcionalidades básicas, como guardar el idioma preferido o el consentimiento de privacidad.
+   - Duración: Sesión (se eliminan al cerrar la App) o persistentes (hasta 1 año).
+   - Ejemplos: SharedPreferences para idioma (almacenado localmente).
+   - No requieren consentimiento.
+
+2. **Cookies de rendimiento y análisis**:
+   - Propósito: Analizar cómo usas la App para mejorar su rendimiento (ej. tiempo en pantalla, uso del timer).
+   - Duración: Hasta 2 años.
+   - Ejemplos: Firebase Analytics (datos anónimos, no identifican usuarios individuales).
+   - Requieren consentimiento.
+
+3. **Cookies de marketing y anuncios**:
+   - Propósito: Mostrar anuncios personalizados (ej. Google Mobile Ads).
+   - Duración: Hasta 13 meses.
+   - Ejemplos: Google AdMob (anuncios basados en uso anónimo).
+   - Requieren consentimiento.
+
+4. **Cookies de terceros**:
+   - Propósito: Integraciones como Firebase (análisis) o Google Ads (anuncios).
+   - Duración: Variable (ver políticas de terceros).
+   - Ejemplos: Google Analytics (anónimo), Firebase Crashlytics (errores anónimos).
+   - Requieren consentimiento.
+
+No usamos cookies para rastreo cruzado entre apps o sitios sin consentimiento explícito.
+
+### Cómo gestionamos las cookies
+- **Consentimiento**: Al abrir la App, mostramos un aviso de consentimiento. Puedes aceptar o rechazar cookies no esenciales. Puedes cambiar tu consentimiento en cualquier momento desde el menú de ajustes (o desde el navegador si usas el formulario web).
+- **Rechazo**: Si rechazas cookies de marketing, verás anuncios genéricos pero menos personalizados.
+- **Retención**: Las cookies se eliminan automáticamente al final de su duración o al retirar el consentimiento.
+- **Seguridad**: Usamos HTTPS y encriptación para todas las transmisiones. No compartimos datos con terceros sin base legal (ej. para análisis anónimo con Firebase).
+
+### Tus derechos respecto a las cookies
+Como usuario en España y la UE, tienes derechos bajo el RGPD (Reglamento (UE) 2016/679) y la LOPDGDD (Ley Orgánica 3/2018):
+- **Acceso**: Ver qué cookies usamos.
+- **Rectificación**: Corregir datos inexactos.
+- **Supresión**: Eliminar cookies (derecho al olvido).
+- **Limitación**: Restringir el uso.
+- **Oposición**: Rechazar cookies no esenciales.
+- **Portabilidad**: Recibir tus datos en formato estructurado.
+- **Retirar consentimiento**: Cambia tu decisión en cualquier momento.
+
+Para ejercer estos derechos, contáctanos por email: dmwideas@gmail.com. Responderemos en 1 mes (extendible a 3 meses si es complejo).
+
+### Cookies específicas usadas
+| Nombre         | Propósito                  | Tipo         | Duración    | Proveedor           |
+|----------------|----------------------------|--------------|-------------|---------------------|
+| _ga            | Análisis de uso anónimo    | Analítica    | 2 años      | Google Analytics (Firebase) |
+| _gid           | Sesión de usuario anónima  | Analítica    | 24 horas    | Google Analytics    |
+| ads_user_id    | Personalización de anuncios| Marketing    | 1 año       | Google AdMob        |
+| language_pref  | Preferencia de idioma      | Esencial     | 1 año       | Local (SharedPreferences) |
+| hasConsented   | Consentimiento de privacidad | Esencial  | Permanente   | Local (SharedPreferences) |
+
+Esta lista se actualiza periódicamente. Para más detalles, usa herramientas como Google Privacy Sandbox o la consola de Firebase.
+
+### Cambios en esta Política de Cookies
+Podemos actualizar esta política. Te notificaremos por email o aviso en la App antes de cambios importantes. Revisa periódicamente.
+
+Última actualización: 18 de octubre de 2025
