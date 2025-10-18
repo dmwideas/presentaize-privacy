@@ -133,3 +133,74 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 By email: dmwideas@gmail.com
 Generated using Privacy Policies Generator
+
+## Cookie Policy
+Cookie Policy Last updated: October 18, 2025
+
+This Cookie Policy explains how PresentAIze uses cookies and similar technologies in its mobile application (available on Android). By using the App, you accept the use of these technologies in accordance with this policy. This policy is part of our Privacy Policy.
+
+### What are cookies and similar technologies?
+Cookies are small text files stored on your device when you use the App. They include similar technologies like web pixels, local storage, and third-party SDKs (e.g., Firebase for analytics). We use these to enhance your experience, analyze usage, and display relevant ads. We do not use cookies to track personal data without consent.
+
+### Types of cookies we use
+The App uses the following types of cookies, classified by purpose and duration:
+
+1. **Strictly necessary cookies** (essential):
+   - Purpose: Enable basic functionalities, such as saving language preferences or privacy consent.
+   - Duration: Session (deleted when closing the App) or persistent (up to 1 year).
+   - Examples: SharedPreferences for language (stored locally).
+   - No consent required.
+
+2. **Performance and analytics cookies**:
+   - Purpose: Analyze how you use the App to improve its performance (e.g., time on screen, timer usage).
+   - Duration: Up to 2 years.
+   - Examples: Firebase Analytics (anonymous data, does not identify individual users).
+   - Require consent.
+
+3. **Marketing and advertising cookies**:
+   - Purpose: Display personalized ads (e.g., Google Mobile Ads).
+   - Duration: Up to 13 months.
+   - Examples: Google AdMob (ads based on anonymous usage).
+   - Require consent.
+
+4. **Third-party cookies**:
+   - Purpose: Integrations like Firebase (analytics) or Google Ads (ads).
+   - Duration: Variable (see third-party policies).
+   - Examples: Google Analytics (anonymous), Firebase Crashlytics (anonymous errors).
+   - Require consent.
+
+We do not use cookies for cross-app or cross-site tracking without explicit consent.
+
+### How we manage cookies
+- **Consent**: Upon opening the App, we display a consent notice. You can accept or reject non-essential cookies. You can change your consent anytime via the settings menu (or browser if using the web form).
+- **Rejection**: If you reject marketing cookies, you’ll see generic but less personalized ads.
+- **Retention**: Cookies are automatically deleted at the end of their duration or upon withdrawing consent.
+- **Security**: We use HTTPS and encryption for all transmissions. We do not share data with third parties without a legal basis (e.g., anonymous analysis with Firebase).
+
+### Your rights regarding cookies
+As a user in Spain and the EU, you have rights under the GDPR (Regulation (EU) 2016/679) and LOPDGDD (Organic Law 3/2018):
+- **Access**: See which cookies we use.
+- **Rectification**: Correct inaccurate data.
+- **Erasure**: Delete cookies (right to be forgotten).
+- **Restriction**: Limit usage.
+- **Objection**: Reject non-essential cookies.
+- **Portability**: Receive your data in a structured format.
+- **Withdraw consent**: Change your decision anytime.
+
+To exercise these rights, contact us at: dmwideas@gmail.com. We will respond within 1 month (extendable to 3 months if complex).
+
+### Specific cookies used
+| Name         | Purpose                  | Type         | Duration    | Provider           |
+|--------------|--------------------------|--------------|-------------|--------------------|
+| _ga          | Anonymous usage analysis | Analytics    | 2 years     | Google Analytics (Firebase) |
+| _gid         | Anonymous session        | Analytics    | 24 hours    | Google Analytics    |
+| ads_user_id  | Ad personalization       | Marketing    | 1 year      | Google AdMob        |
+| language_pref| Language preference      | Essential    | 1 year      | Local (SharedPreferences) |
+| hasConsented | Privacy consent          | Essential    | Permanent   | Local (SharedPreferences) |
+
+This list is updated periodically. For more details, use tools like Google Privacy Sandbox or the Firebase console.
+
+### Changes to this Cookie Policy
+We may update this policy. We will notify you via email or an in-app notice before significant changes. Review periodically.
+
+Last updated: October 18, 2025
