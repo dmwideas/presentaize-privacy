@@ -192,42 +192,247 @@ We do not use cookies for cross-app or cross-site tracking without explicit cons
 - **Retention:** Cookies are automatically deleted at the end of their duration or upon withdrawing consent.
 - **Security:** We use HTTPS and encryption for all transmissions. We do not share data with third parties without a legal basis (e.g., anonymous analysis with Firebase).
 
-### Your rights regarding cookies
+# Privacy Policy for PresentAIze
 
-As a user in Spain and the EU, you have rights under the GDPR (Regulation (EU) 2016/679) and LOPDGDD (Organic Law 3/2018):
+**Last updated: October 28, 2025**
 
-- **Access:** See which cookies we use.
-- **Rectification:** Correct inaccurate data.
-- **Erasure:** Delete cookies (right to be forgotten).
-- **Restriction:** Limit usage.
-- **Objection:** Reject non-essential cookies.
-- **Portability:** Receive your data in a structured format.
-- **Withdraw consent:** Change your decision anytime.
+This Privacy Policy describes our policies and procedures on the collection, use, and disclosure of your information when you use **PresentAIze** (the "App" or "Service"). It informs you about your privacy rights and how the law protects you.
 
-To exercise these rights, contact us at: dmwideas@gmail.com. We will respond within 1 month (extendable to 3 months if complex).
-
-### Specific cookies used
-
-| Name           | Purpose                  | Type          | Duration    | Provider                     |
-|----------------|--------------------------|---------------|-------------|------------------------------|
-| _ga            | Anonymous usage analysis | Analytics     | 2 years     | Google Analytics (Firebase)  |
-| _gid           | Anonymous session        | Analytics     | 24 hours    | Google Analytics             |
-| ads_user_id    | Ad personalization       | Marketing     | 1 year      | Google AdMob                 |
-| language_pref  | Language preference      | Essential     | 1 year      | Local (SharedPreferences)    |
-| hasConsented   | Privacy consent          | Essential     | Permanent   | Local (SharedPreferences)    |
-
-This list is updated periodically. For more details, use tools like Google Privacy Sandbox or the Firebase console.
-
-### Changes to this Cookie Policy
-
-We may update this policy. We will notify you via email or an in-app notice before significant changes. Review periodically.
-
-**Last updated: October 18, 2025**
+By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy.
 
 ---
 
-### For Spanish Version
-At the bottom of this `index.md`, add:
+## Interpretation and Definitions
 
-```markdown
-For the Spanish version, see [here](privacy-es.md).
+### Interpretation
+Words with capitalized initial letters have meanings defined below. These definitions apply whether in singular or plural.
+
+### Definitions
+For the purposes of this Privacy Policy:
+
+- **Account**: A unique identifier to access the Service.
+- **Affiliate**: An entity under common control with a party.
+- **Application**: PresentAIze, the mobile app.
+- **Company** ("We", "Us", "Our"): PresentAIze, based in Spain.
+- **Country**: Spain.
+- **Device**: Any device accessing the Service (e.g., smartphone, tablet).
+- **Personal Data**: Information relating to an identified or identifiable individual.
+- **Service**: The PresentAIze mobile application.
+- **Service Provider**: Third parties processing data on our behalf (e.g., Firebase, Google AdMob).
+- **Usage Data**: Automatically collected data (e.g., IP, session duration).
+- **You**: The individual or entity using the Service.
+
+---
+
+## Collecting and Using Your Personal Data
+
+### Types of Data Collected
+
+#### Personal Data
+We **do not collect personally identifiable information** unless you voluntarily provide it (e.g., email for support).
+
+#### Usage Data
+Automatically collected when using the App:
+
+- Device IP address (anonymized)
+- Device type and model
+- Operating system
+- App version
+- Session duration
+- Features used (timer, QR code, feedback)
+
+> **All Usage Data is anonymous.**
+
+---
+
+## Use of Your Personal Data
+
+We use data for:
+
+| Purpose | Description |
+|--------|-------------|
+| **Operate the Service** | Run timer, generate QR, show feedback |
+| **Improve the App** | Fix bugs, enhance user experience |
+| **Security** | Prevent abuse or fraud |
+| **Support** | Respond to your inquiries |
+| **Legal Compliance** | Fulfill lawful requests |
+
+---
+
+## Sharing Your Information
+
+We may share **anonymous, aggregated data** with:
+
+- **Service Providers**: Firebase (analytics), Google AdMob (ads)
+- **Legal Authorities**: Only if required by law
+- **Business Transfers**: In case of merger or acquisition
+
+> **We never sell your personal data.**
+
+---
+
+## Retention of Your Personal Data
+
+- **Feedback data**: Deleted after **24 hours** or session end
+- **Usage Data**: Retained up to **30 days**
+- **Support emails**: Kept only as needed to resolve your request
+
+---
+
+## Transfer of Your Personal Data
+
+Data is processed in **Spain** and may be transferred to **Google servers (EU or US)** under the **EU-US Data Privacy Framework** or **Standard Contractual Clauses**.
+
+By using the App, you consent to this transfer.
+
+---
+
+## Delete Your Personal Data
+
+You have the right to request deletion of any data we hold.  
+Contact us at: **dmwideas@gmail.com**  
+We will respond within **30 days**.
+
+---
+
+## Disclosure of Your Personal Data
+
+We may disclose data only to:
+
+- Comply with legal obligations
+- Protect our rights or safety
+- Prevent fraud
+- Respond to government requests
+
+---
+
+## Security of Your Personal Data
+
+We use **industry-standard security** (HTTPS, encryption, Firebase rules).  
+However, **no internet transmission is 100% secure**. We cannot guarantee absolute security.
+
+---
+
+## Children’s Privacy
+
+**PresentAIze is not intended for children under 13.**  
+We do not knowingly collect data from minors.  
+If discovered, we delete it immediately.
+
+---
+
+## Links to Other Websites
+
+The App may link to third-party sites (e.g., feedback form).  
+We are **not responsible** for their content or privacy practices.
+
+---
+
+## Changes to this Privacy Policy
+
+We may update this policy.  
+Changes will be posted here with an updated "Last updated" date.  
+Material changes will be notified via in-app notice.
+
+---
+
+## Contact Us
+
+For any questions:  
+**Email**: dmwideas@gmail.com
+
+---
+
+# Important Disclaimer: User Responsibility
+
+> **PresentAIze is a neutral tool.**  
+> **You are solely responsible for how you use it.**
+
+### 1. Responsibility for Presentation Content
+You are **100% responsible** for the **content, theme, and purpose** of any presentation using PresentAIze.  
+We **do not review, endorse, or control** your use.  
+We are **not liable** for any **unethical, illegal, harmful, or inappropriate** use.
+
+### 2. Responsibility for Audience Feedback
+PresentAIze enables **anonymous audience feedback**.  
+While we use automated filters to block offensive language, **we cannot guarantee 100% control**.  
+**You (the presenter)** must review and manage all feedback.  
+We are **not liable** for any comments, opinions, or data shared by your audience.
+
+> **We provide the tool. You control the use.**
+
+---
+
+# Cookie Policy
+
+**Last updated: October 28, 2025**
+
+This policy explains how **PresentAIze** uses cookies and similar technologies in its **Android and iOS apps**.
+
+---
+
+## What Are Cookies & Similar Technologies?
+
+Cookies are small data files stored on your device.  
+We use **local storage** and **third-party SDKs** (Firebase, AdMob) for similar purposes.
+
+---
+
+## Types of Cookies We Use
+
+| Type | Purpose | Duration | Consent Required |
+|------|--------|----------|------------------|
+| **Essential** | Save language, consent | Up to 1 year | No |
+| **Analytics** | Improve performance | Up to 2 years | Yes |
+| **Advertising** | Show relevant ads | Up to 13 months | Yes |
+| **Third-Party** | Firebase, AdMob | Varies | Yes |
+
+> **No cross-app or cross-site tracking without consent.**
+
+---
+
+## Specific Cookies & Data Used
+
+| Name           | Purpose                  | Type          | Duration    | Provider                     |
+|----------------|--------------------------|---------------|-------------|------------------------------|
+| `language_pref`| Language preference      | Essential     | 1 year      | Local (SharedPreferences)    |
+| `hasConsented` | Privacy consent          | Essential     | Permanent   | Local (SharedPreferences)    |
+| `_ga`          | Anonymous usage analysis | Analytics     | 2 years     | Google (Firebase)            |
+| `_gid`         | Anonymous session        | Analytics     | 24 hours    | Google                       |
+| `ads_user_id`  | Ad personalization       | Marketing     | 1 year      | Google AdMob                 |
+
+---
+
+## How We Manage Cookies
+
+- **Consent**: Shown on first launch
+- **Change mind?**: Reinstall or contact us
+- **Rejection**: You’ll see generic ads
+- **Security**: All data encrypted in transit
+
+---
+
+## Your Rights (GDPR, LOPDGDD, CCPA)
+
+You have the right to:
+
+- **Access** your data
+- **Rectify** incorrect data
+- **Erase** your data
+- **Object** to processing
+- **Withdraw consent**
+
+Contact: **dmwideas@gmail.com**  
+Response within **30 days**
+
+---
+
+## Changes to this Cookie Policy
+
+We will notify you of major changes via in-app notice.
+
+---
+
+**Thank you for using PresentAIze!**  
+*We respect your privacy — and your responsibility.*
+
