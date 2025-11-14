@@ -1,6 +1,7 @@
+# Privacy Policy for PresentAIze
 **Last updated: November 14, 2025**
 
-This Privacy Policy complies with **GDPR**, **LOPDGDD**, and **CCPA**.
+This Policy complies with **GDPR**, **LOPDGDD**, and **CCPA**.
 
 ---
 
@@ -8,11 +9,11 @@ This Privacy Policy complies with **GDPR**, **LOPDGDD**, and **CCPA**.
 
 | Type | Details | Retention |
 |------|--------|-----------|
-| **Personal Data** | **None collected** | — |
+| **Personal Data** | **None** | — |
 | **Anonymous Feedback** | Text, rating (1–5), timestamp | **24 hours** |
-| **Gemini AI (Premium)** | Feedback text (sent to Google) | **Never stored** |
+| **Gemini AI (Premium)** | Text sent to Google | **Never stored** |
 | **Usage Data** | IP (anonymized), device, OS, session | **30 days** |
-| **IAP** | Handled by Google Play | Google |
+| **Purchases** | Handled by Google Play | Google |
 
 > **Feedback may contain user-entered text. We do not review or moderate content.**
 
@@ -22,7 +23,7 @@ This Privacy Policy complies with **GDPR**, **LOPDGDD**, and **CCPA**.
 
 - **You (the presenter)** are **100% responsible** for feedback content.
 - **We do not filter or review** messages.
-- **Automated deletion**: All feedback deleted after **24 hours**.
+- **Automatic deletion**: All feedback deleted after **24 hours**.
 - **If personal data is entered** (e.g., name), it is **deleted in 24h**.
 
 ---
@@ -66,7 +67,8 @@ Transferred to **Google (EU/US)** under:
 
 ## 7. Children
 
-**Not for under 13.** Data deleted if detected.
+**Not for under 13 years old.**  
+Data deleted if detected.
 
 ---
 
@@ -84,5 +86,5 @@ Notified in-app.
 
 # User Responsibility
 
-> **You control the presentation and feedback.**
-> **We provide the tool. You are responsible for content.**
+> **You control the presentation and feedback.**  
+> **We provide the tool. You are responsible for the content.**
