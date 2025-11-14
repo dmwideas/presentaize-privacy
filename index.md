@@ -1,7 +1,7 @@
 # Privacy Policy for PresentAIze
 **Last updated: November 14, 2025**
 
-This Policy complies with **GDPR**, **LOPDGDD**, and **CCPA**.
+This Privacy Policy complies with **GDPR**, **LOPDGDD**, and **CCPA**.
 
 ---
 
@@ -11,7 +11,7 @@ This Policy complies with **GDPR**, **LOPDGDD**, and **CCPA**.
 |------|--------|-----------|
 | **Personal Data** | **None** | — |
 | **Anonymous Feedback** | Text, rating (1–5), timestamp | **24 hours** |
-| **Gemini AI (Premium)** | Text sent to Google | **Never stored** |
+| **Gemini AI (Premium)** | Feedback text (sent to Google) | **Never stored** |
 | **Usage Data** | IP (anonymized), device, OS, session | **30 days** |
 | **Purchases** | Handled by Google Play | Google |
 
@@ -23,7 +23,7 @@ This Policy complies with **GDPR**, **LOPDGDD**, and **CCPA**.
 
 - **You (the presenter)** are **100% responsible** for feedback content.
 - **We do not filter or review** messages.
-- **Automatic deletion**: All feedback deleted after **24 hours**.
+- **Automated deletion**: All feedback deleted after **24 hours**.
 - **If personal data is entered** (e.g., name), it is **deleted in 24h**.
 
 ---
@@ -86,5 +86,7 @@ Notified in-app.
 
 # User Responsibility
 
+> **You control the presentation and feedback.**  
+> **We provide the tool. You are responsible for the content.**
 > **You control the presentation and feedback.**  
 > **We provide the tool. You are responsible for the content.**
