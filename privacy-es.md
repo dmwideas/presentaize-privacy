@@ -1,7 +1,7 @@
 # Política de Privacidad de PresentAIze
 **Última actualización: 14 de noviembre de 2025**
 
-Esta Política cumple con el **RGPD**, **LOPDGDD** y **CCPA**.
+Esta política cumple con el **RGPD**, **LOPDGDD** y **CCPA**.
 
 ---
 
@@ -10,7 +10,7 @@ Esta Política cumple con el **RGPD**, **LOPDGDD** y **CCPA**.
 | Tipo | Detalles | Retención |
 |------|--------|-----------|
 | **Datos Personales** | **Ninguno** | — |
-| **Feedback Anónimo** | Texto, valoración (1–5), fecha/hora | **24 horas** |
+| **Feedback Anónimo** | Texto, valoración (1–5), marca de tiempo | **24 horas** |
 | **IA Gemini (Premium)** | Texto enviado a Google | **Nunca almacenado** |
 | **Datos de Uso** | IP (anonimizada), dispositivo, SO, sesión | **30 días** |
 | **Compras** | Gestionadas por Google Play | Google |
@@ -85,6 +85,9 @@ Notificados en la app.
 ---
 
 # Responsabilidad del Usuario
+
+> **Tú controlas la presentación y el feedback.**  
+> **Nosotros proporcionamos la herramienta. Tú eres responsable del contenido.**
 
 > **Tú controlas la presentación y el feedback.**  
 > **Nosotros proporcionamos la herramienta. Tú eres responsable del contenido.**
