@@ -1,64 +1,74 @@
-# Política de Privacidad
-**14 nov 2025**
+# Política de Privacidad de PresentAIze
+**Última actualización: 14 de noviembre de 2025**
 
-Cumple con **RGPD**, **LOPDGDD**, **CCPA**.
-
----
-
-## 1. Datos Recopilados
-
-| Tipo | Detalle | Base Legal |
-|------|--------|------------|
-| **Personales** | **Ninguno** | — |
-| **Feedback** | Texto, valoración | Interés legítimo |
-| **IA Gemini** | Texto (Premium) | Consentimiento |
-| **Uso** | IP anonimizada | Interés legítimo |
+Esta Política cumple con el **RGPD**, **LOPDGDD** y **CCPA**.
 
 ---
 
-## 2. Tus Derechos
+## 1. Datos que Recopilamos
 
-- **Acceso, rectificación, supresión, oposición, portabilidad**  
-- **Retirar consentimiento**: Reinstalar  
-- **Respuesta**: 30 días → dmwideas@gmail.com
+| Tipo | Detalles | Retención |
+|------|--------|-----------|
+| **Datos Personales** | **Ninguno** | — |
+| **Feedback Anónimo** | Texto, valoración (1–5), fecha/hora | **24 horas** |
+| **IA Gemini (Premium)** | Texto enviado a Google | **Nunca almacenado** |
+| **Datos de Uso** | IP (anonimizada), dispositivo, SO, sesión | **30 días** |
+| **Compras** | Gestionadas por Google Play | Google |
+
+> **El feedback puede contener texto escrito por usuarios. No revisamos ni moderamos contenido.**
 
 ---
 
-## 3. Procesamiento
+## 2. Importante: Contenido Introducido por el Usuario
 
-| Uso | Proveedor | Garantías |
-|-----|----------|----------|
-| Feedback | Firebase | TTL 24h |
-| IA | Google Gemini | Sin almacenamiento |
-| Anuncios | AdMob | Anonimizado |
+- **Tú (el presentador)** eres **100% responsable** del contenido del feedback.
+- **No filtramos ni revisamos** los mensajes.
+- **Borrado automático**: Todo feedback se elimina tras **24 horas**.
+- **Si se introduce dato personal** (ej. nombre), se **elimina en 24h**.
+
+---
+
+## 3. Retención y Borrado de Datos
+
+| Dato | Retención | Método de Borrado |
+|------|-----------|-------------------|
+| Feedback | 24 horas | **Firestore TTL** |
+| IA Gemini | Nunca almacenado | — |
+| Datos de Uso | 30 días | Automático |
+| Emails de soporte | Solo durante resolución | Manual |
 
 ---
 
 ## 4. Transferencia Internacional
 
-A Google (UE/EE.UU.) con:
-- **Data Privacy Framework**
-- **Cláusulas Contractuales**
+Datos procesados en **España**.  
+Transferidos a **Google (UE/EE.UU.)** bajo:
+- **Marco de Privacidad de Datos UE-EE.UU.**
+- **Cláusulas Contractuales Tipo**
 
 ---
 
-## 5. Retención
+## 5. Tus Derechos
 
-- Feedback: **24h**
-- IA: **Nunca**
-- Uso: **30 días**
+- **Acceso / Borrado**: Email a **dmwideas@gmail.com**
+- **Respuesta**: En **30 días**
+- **Borrado automático**: Feedback en 24h
 
 ---
 
 ## 6. Seguridad
 
-HTTPS + Reglas Firebase + Cifrado local
+- HTTPS
+- Reglas de Seguridad de Firebase
+- Borrado TTL
+- Almacenamiento local cifrado
 
 ---
 
 ## 7. Menores
 
-**No para menores de 13.** Eliminación inmediata.
+**No para menores de 13 años.**  
+Datos eliminados si se detectan.
 
 ---
 
@@ -71,3 +81,10 @@ Notificados en la app.
 ## 9. Contacto
 
 **dmwideas@gmail.com**
+
+---
+
+# Responsabilidad del Usuario
+
+> **Tú controlas la presentación y el feedback.**  
+> **Nosotros proporcionamos la herramienta. Tú eres responsable del contenido.**
